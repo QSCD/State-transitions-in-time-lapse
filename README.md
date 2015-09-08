@@ -7,7 +7,10 @@ Michael K Strasser , Justin Feigelman, Fabian J Theis and Carsten Marr
 BMC Systems Biology 2015
 ```
 
-Currently empty, will be uploaded upon acceptance of the paper
+A draft of the manuscript is available [here](http://www.helmholtz-muenchen.de/fileadmin/ICB/qscd/Mst/Strasser2015Draft.pdf)
+
+
+The repository is currently empty, the code will be uploaded upon acceptance of the paper
   
 
 
